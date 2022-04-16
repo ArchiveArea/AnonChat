@@ -1,0 +1,8 @@
+---
+# Show anonymous player name to console
+showMsgToCsl: true
+
+# Format
+# <msg> is message of player
+format: "&f[&9Anonymous&f] <msg>"
+...
