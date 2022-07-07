@@ -1,9 +1,9 @@
 ---
 name: AnonChat
-version: 1.0.0
+version: 1.0.1
 main: NhanAZ\AnonChat\Main
 src-namespace-prefix: NhanAZ\AnonChat
-api: 4.0.0
+api: 5.0.0
 author: NhanAZ
 website: https://github.com/NhanAZ
 description: "Allows players to chat anonymously"
