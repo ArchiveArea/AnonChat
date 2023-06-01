@@ -1,6 +1,6 @@
 ---
 name: AnonChat
-version: 1.0.1
+version: 1.0.2
 main: NhanAZ\AnonChat\Main
 src-namespace-prefix: NhanAZ\AnonChat
 api: 5.0.0
